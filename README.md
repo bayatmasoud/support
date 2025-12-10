@@ -1,4 +1,4 @@
-# YBlue Moj Support
+# Blue Moj Support
 
 If you need help with the app, contact us:
 
