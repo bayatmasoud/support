@@ -7,279 +7,186 @@ If you need help with the app, contact us:
 
 You can also find FAQs and support options inside the mobile app under **Settings → Support**.
 
+
+
 # Privacy Policy
 
 **Last Updated: December 13, 2025**
 
 ## Introduction
 
-This Privacy Policy describes how Blumoj ("we", "us", or "our") collects, uses, and shares your personal information when you use our mobile application (the "App"). By using the App, you agree to the collection and use of information in accordance with this policy.
+Blumoj is a simple classified ads platform where users can publish and view listings. This Privacy Policy explains how the platform works and what information you choose to make public when you use our service.
 
-## 1. Information We Collect
+## What Blumoj Is
 
-### 1.1 Personal Information
-When you create an account, we collect the following personal information:
-- **Full Name**: Your complete name for account identification
-- **Email Address**: Used for account verification, communication, and publicly displayed for user contact
-- **Phone Number**: Used for verification and publicly displayed for user contact
-- **Password**: Encrypted and stored securely for account authentication
+Blumoj is a hosting platform for classified ads. We provide the technical infrastructure for users to post their listings and connect with each other. We do not collect, process, or use your personal data for any purpose other than displaying the listings you voluntarily choose to publish.
 
-### 1.2 Listing Information
-When you create a classified ad, we collect:
-- Listing title and description
-- Category and subcategory
-- Location/address information
-- Photos and media uploads
-- Price and other listing-specific details
+## Information You Provide
 
-### 1.3 Usage Data
-We automatically collect certain information when you use the App:
-- Device information (model, operating system, unique device identifiers)
-- App usage statistics and interactions
-- Log data (IP address, access times, pages viewed)
-- Crash reports and performance data
+When you create an account and publish a listing, you voluntarily provide:
 
-### 1.4 Location Information
-With your permission, we collect location data to:
-- Display listings relevant to your geographic area
-- Show your listing location to other users
-- Improve location-based search functionality
+- **Your Name**: Displayed on your listings
+- **Email Address**: Publicly displayed for buyers to contact you
+- **Phone Number**: Publicly displayed for buyers to contact you
+- **Password**: Stored securely to protect your account
+- **Listing Details**: Title, description, photos, price, and location
 
-## 2. How We Use Your Information
+**Important**: By publishing a listing, you are choosing to make your contact information (email and phone) publicly visible to all users. This is the core functionality of the platform - to allow buyers to contact sellers.
 
-### 2.1 Service Provision
-We use your information to:
-- Create and manage your account
-- Publish and display your classified ads
-- Enable communication between buyers and sellers
-- Provide customer support
-- Send important service notifications
+## Verification
 
-### 2.2 Verification
-- **Email Verification**: Required for your ads to be fully visible to other users
-- **Phone Verification**: Required for your ads to be fully visible to other users
-- **Unverified Accounts**: Listings from unverified accounts only display the address to protect privacy
+To reduce spam and increase trust:
+- You must verify your email address
+- You must verify your phone number
 
-### 2.3 Improvement and Analytics
-We use aggregated and anonymized data to:
-- Analyze usage patterns and improve the App
-- Develop new features and functionality
-- Monitor and maintain App performance
-- Prevent fraud and abuse
+Until verification is complete, only the address from your listing is shown to other users (your contact details remain hidden).
 
-### 2.4 Communication
-We may use your email address and phone number to:
-- Send account-related notifications
-- Provide customer support responses
-- Share important updates about the service
-- Enable direct communication between users regarding listings
+## What We DON'T Do
 
-## 3. Public Information
+We want to be clear about what we don't do:
 
-### 3.1 What is Publicly Visible
-The following information is publicly displayed in your listings:
-- Your full name
-- Your email address
-- Your phone number
-- Listing details (title, description, photos, price, location)
+- ❌ We do not track your activity or behavior
+- ❌ We do not use analytics or tracking tools
+- ❌ We do not share your data with third parties for marketing
+- ❌ We do not sell your information
+- ❌ We do not use cookies for tracking
+- ❌ We do not collect device information beyond what's necessary for the app to function
+- ❌ We do not process your data for purposes other than displaying your listings
 
-**Important**: By creating an account and publishing listings, you explicitly consent to making this information publicly available to all App users.
+## How the Platform Works
 
-### 3.2 Verified vs. Unverified Accounts
-- **Verified Accounts**: Full listing details including contact information are visible
-- **Unverified Accounts**: Only the address is shown; contact details remain hidden until verification is complete
+Think of Blumoj like a digital bulletin board:
 
-## 4. Data Sharing and Disclosure
+1. You create a listing with your contact information
+2. We display your listing publicly
+3. Interested buyers contact you directly using the information you provided
+4. We simply host and display what you choose to publish
 
-### 4.1 With Other Users
-Your contact information (email and phone number) is shared with other users when:
-- You publish a listing
-- You have completed email and phone verification
+## Your Control
 
-### 4.2 With Service Providers
-We may share your information with third-party service providers who assist us in:
-- Cloud hosting and data storage
-- Analytics and performance monitoring
-- Payment processing (if applicable)
-- Customer support tools
+You have complete control:
 
-These providers are bound by confidentiality agreements and may only use your data to perform services on our behalf.
+- **Edit Your Listings**: Update or modify your listings anytime through the app
+- **Delete Your Listings**: Remove individual listings whenever you want
+- **Delete Your Account**: Delete your entire account and all your listings from the app settings
 
-### 4.3 Legal Requirements
-We may disclose your information when required by law or in response to:
-- Legal processes (subpoenas, court orders)
-- Requests from law enforcement or government authorities
-- Protection of our rights, property, or safety
-- Prevention of fraud, abuse, or illegal activities
+When you delete your account:
+- All your listings are immediately removed
+- Your account information is permanently deleted
+- This action cannot be undone
 
-### 4.4 Business Transfers
-In the event of a merger, acquisition, or sale of assets, your personal information may be transferred to the acquiring entity.
+## Data Security
 
-## 5. GDPR Compliance (European Users)
+We implement basic security measures:
+- Passwords are encrypted
+- Data transmission uses secure HTTPS
+- Access to the platform requires authentication
 
-Under the General Data Protection Regulation (GDPR), you have the following rights:
+However, remember that any information you include in your listings is public by design.
 
-### 5.1 Your Rights
-- **Right to Access**: Request a copy of the personal data we hold about you
-- **Right to Rectification**: Request correction of inaccurate or incomplete data
-- **Right to Erasure**: Request deletion of your personal data ("right to be forgotten")
-- **Right to Restrict Processing**: Request limitation of how we process your data
-- **Right to Data Portability**: Receive your data in a structured, machine-readable format
-- **Right to Object**: Object to processing of your personal data for specific purposes
-- **Right to Withdraw Consent**: Withdraw consent at any time where processing is based on consent
+## Your Responsibilities
 
-### 5.2 Legal Basis for Processing
-We process your personal data under the following legal bases:
-- **Consent**: You have explicitly consented to making your contact information public
-- **Contract**: Processing is necessary for providing the service you requested
-- **Legitimate Interest**: Processing is necessary for our legitimate business interests
-- **Legal Obligation**: Processing is required to comply with legal requirements
+When using Blumoj, you are responsible for:
 
-### 5.3 Data Retention
-We retain your personal data only as long as necessary to:
-- Provide the services you requested
-- Comply with legal obligations
-- Resolve disputes and enforce agreements
+- The accuracy of the information you provide
+- The content you publish in your listings
+- Complying with applicable laws in Denmark and the European Union
 
-## 6. Data Security
+### Prohibited Content
 
-### 6.1 Security Measures
-We implement industry-standard security measures to protect your information:
-- Encryption of data in transit (HTTPS/TLS)
-- Encrypted password storage
-- Regular security audits and updates
-- Access controls and authentication
-- Secure cloud infrastructure
-
-### 6.2 Your Responsibility
-You are responsible for:
-- Maintaining the confidentiality of your password
-- Logging out of your account when using shared devices
-- Notifying us immediately of any unauthorized access
-
-### 6.3 No Absolute Security
-While we strive to protect your personal information, no method of transmission or storage is 100% secure. We cannot guarantee absolute security of your data.
-
-## 7. Children's Privacy
-
-The App is not intended for users under the age of 16. We do not knowingly collect personal information from children under 16. If we become aware that we have collected data from a child under 16 without parental consent, we will take steps to delete that information.
-
-## 8. International Data Transfers
-
-Your information may be transferred to and processed in countries other than your country of residence. These countries may have different data protection laws. By using the App, you consent to such transfers.
-
-For European users, we ensure adequate protection through:
-- Standard Contractual Clauses (SCCs)
-- Adequacy decisions by the European Commission
-- Other legally recognized transfer mechanisms
-
-## 9. Your Choices and Controls
-
-### 9.1 Account Information
-You can update your account information at any time through the App settings.
-
-### 9.2 Location Services
-You can enable or disable location services through your device settings. Disabling location may limit some App functionality.
-
-### 9.3 Push Notifications
-You can control push notifications through the App settings or your device settings.
-
-### 9.4 Account Deletion
-You may request deletion of your account and personal data at any time by:
-- Using the account deletion option in the App
-- Contacting our support team
-
-Upon deletion:
-- Your account will be permanently removed
-- Your active listings will be deleted
-- Your personal information will be erased from our systems
-- Some data may be retained as required by law or for legitimate business purposes
-
-## 10. Content Responsibility
-
-### 10.1 User-Generated Content
-You are solely responsible for the content you publish through the App. The following content is strictly prohibited:
-
-- Pornographic material
-- Abusive, insulting, or threatening content
-- Racist or hate speech
+Do not publish:
+- Pornographic content
+- Abusive, threatening, or hateful content
 - Violent content
 - Illegal goods or services
-- Misleading or deceptive information
-- Content that violates intellectual property rights
+- Misleading or false information
+- Content that violates others' rights
 
-### 10.2 Platform Role
-We act solely as a hosting platform for user-generated content. We reserve the right to:
-- Review and moderate content
-- Remove any listing that violates our terms
-- Suspend or terminate accounts that violate our policies
-- Cooperate with law enforcement when necessary
+We reserve the right to remove any listing or suspend accounts that violate these rules.
 
-## 11. Compliance
+## GDPR Compliance (European Users)
 
-### 11.1 Applicable Laws
-All content published through the App must comply with:
-- The laws of Denmark
+Under GDPR, you have the right to:
+
+- **Access**: View what information you've published
+- **Rectification**: Edit your listings and account information
+- **Erasure**: Delete your account and listings at any time
+- **Data Portability**: Request a copy of your data
+
+Since you control what you publish, you can exercise most of these rights directly through the app.
+
+**Legal Basis**: We operate on the basis of consent. By creating an account and publishing listings, you consent to making your contact information public. You can withdraw this consent at any time by deleting your listings or account.
+
+## No Special Permissions Required
+
+The Blumoj app does not require special device permissions beyond:
+- Internet access (to connect to the platform)
+- Camera/photo library (only if you want to add photos to your listings)
+- Optional location services (to help you set your listing location)
+
+You remain in control of what permissions you grant.
+
+## Children's Privacy
+
+The App is not intended for users under 16 years of age. If you are under 16, please do not use this platform.
+
+## Changes to This Policy
+
+If we make changes to this Privacy Policy, we will:
+- Update the "Last Updated" date at the top
+- Notify you through the app or by email if changes are significant
+
+Continued use of the app after changes means you accept the updated policy.
+
+## Platform Responsibility
+
+Blumoj acts only as a hosting platform. We:
+- Do not verify the accuracy of listings
+- Are not responsible for transactions between users
+- Are not party to agreements between buyers and sellers
+- May remove content that violates our terms
+- Will cooperate with law enforcement when legally required
+
+## Contact Us
+
+If you have questions about this Privacy Policy or need help with your account:
+
+**Support Options:**
+- **Email**: Contact through the Support tab in the app
+- **Phone**: Available in the Support section
+- **Telegram**: Available in the Support section
+- **WhatsApp**: Available in the Support section
+
+We typically respond within 7 days.
+
+## Legal Compliance
+
+All content published must comply with:
+- Danish law
 - European Union regulations
-- Local laws in your jurisdiction
-
-### 11.2 Your Obligations
-By using the App, you confirm that:
-- You are legally allowed to publish the content
-- Your content does not violate any laws or regulations
-- You have all necessary rights to the content you upload
-- You will not use the App for illegal purposes
-
-## 12. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time to reflect:
-- Changes in our practices
-- Legal, regulatory, or operational requirements
-- New features or services
-
-When we make material changes:
-- We will update the "Last Updated" date
-- We will notify you through the App or by email
-- Continued use of the App constitutes acceptance of the updated policy
-
-## 13. Contact Us
-
-If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
-
-**Support Channels:**
-- **Email**: Available through the App's Support section
-- **Phone**: Available through the App's Support section
-- **Telegram**: Available through the App's Support section
-- **WhatsApp**: Available through the App's Support section
-
-**Response Time:**
-We aim to respond to all privacy-related inquiries within 30 days.
-
-**Data Protection Officer:**
-For GDPR-related inquiries, you may request to speak with our Data Protection Officer.
-
-## 14. Supervisory Authority
-
-If you are located in the European Economic Area (EEA) and believe we have not addressed your concerns adequately, you have the right to lodge a complaint with your local data protection supervisory authority.
+- Your local jurisdiction's laws
 
 ---
 
-## Summary of Key Points
+## Summary
 
-✓ **What We Collect**: Name, email, phone number, listing details, usage data
+**What Blumoj Does:**
+- Provides a platform to publish classified ads
+- Displays the contact information you choose to include in your listings
+- Verifies email and phone to reduce spam
 
-✓ **Public Information**: Your email and phone are publicly visible in listings (with consent)
+**What Blumoj Doesn't Do:**
+- Track your behavior or activity
+- Share your data with third parties
+- Use your information for marketing
+- Collect data beyond what you publish in listings
 
-✓ **Verification Required**: Email and phone verification needed for full listing visibility
-
-✓ **Your Rights**: Access, correction, deletion, and data portability (GDPR)
-
-✓ **Security**: Industry-standard encryption and security measures
-
-✓ **Your Control**: Update information, delete account anytime
-
-✓ **Contact Us**: Multiple support channels available 7 days a week
+**Your Control:**
+- You decide what to publish
+- You can edit or delete anytime
+- Your contact info is public by your choice
 
 ---
 
-By using the Blumoj mobile application, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy.
+By using Blumoj, you understand that this is a public platform where your contact information will be visible to enable buyers to reach you. You are voluntarily choosing to make this information public.
+
